@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "characters": {
+    "terry_terry-booster": {
+      "animations": {
+        "terry_booster_booster-flying": {
+          "fps": 30,
+          "json": "https://api.makko.ai/storage/v1/object/public/sprite-sheets/1781b479-002b-44fd-868d-d97e8a5f3fec/terry_booster_booster-flying.json?t=1777848084681",
+          "image": "https://api.makko.ai/storage/v1/object/public/sprite-sheets/1781b479-002b-44fd-868d-d97e8a5f3fec/terry_booster_booster-flying.webp?t=1777848084681",
+          "priority": "medium",
+          "frameCount": 49,
+          "spriteSheetId": "e41fbcf9-5097-4f43-bf75-83272fdfc96b",
+          "animationLength": 1.6333333333333333,
+          "metadata": {
+            "anchor": {
+              "x": 50,
+              "y": 54,
+              "strategy": "manual",
+              "normalized": {
+                "x": 0.5319148936170213,
+                "y": 0.40601503759398494
+              }
+            },
+            "hitbox": {
+              "x": -41,
+              "y": -45,
+              "width": 94,
+              "height": 133
+            },
+            "scale": 1,
+            "dimensions": {
+              "width": 94,
+              "height": 133
+            }
+          }
+        }
+      },
+      "metadata": {
+        "character_id": "85b8b92a-2dfe-4fec-a847-ef803d143c8d"
+      }
+    }
+  }
+}
